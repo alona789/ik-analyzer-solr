@@ -4,7 +4,7 @@
 
     <groupId>com.github.magese</groupId>
     <artifactId>ik-analyzer</artifactId>
-    <version>9.9.2</version>
+    <version>9.10.0</version>
     <packaging>jar</packaging>
 
     <name>ik-analyzer-solr</name>
@@ -14,7 +14,7 @@
     <properties>
         <java.version>11</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <lucene.version>9.9.2</lucene.version>
+        <lucene.version>9.10.0</lucene.version>
         <javac.src.version>11</javac.src.version>
         <javac.target.version>11</javac.target.version>
         <maven.compiler.plugin.version>3.3</maven.compiler.plugin.version>
